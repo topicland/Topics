@@ -28,7 +28,7 @@ Welcome to add and update topics by sending pull-request.
 ## Movies
 
 - [x] [乐透大作战](http://39.108.136.237/#/topics/%E4%B9%90%E9%80%8F%E5%A4%A7%E4%BD%9C%E6%88%98)
-- [ ] 明日战记
+- [x] 明日战记
 
 ## Games
 

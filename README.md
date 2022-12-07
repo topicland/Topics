@@ -9,6 +9,7 @@ Welcome to add and update topics by sending pull-request.
 - [x] [绝代双骄](http://39.108.136.237/#/topics/%E7%BB%9D%E4%BB%A3%E5%8F%8C%E9%AA%84)
 - [x] [水浒传](http://39.108.136.237/#/topics/%E6%B0%B4%E6%B5%92%E4%BC%A0)
 - [x] [三国演义](http://39.108.136.237/#/topics/%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89)
+- [ ] 献给阿尔吉侬的花束
 
 ## TV Series
 
@@ -33,4 +34,5 @@ Welcome to add and update topics by sending pull-request.
 
 - [ ] 宝可梦朱
 - [ ] 十三机兵防卫圈
+- [ ] Elden Ring
 

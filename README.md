@@ -19,6 +19,7 @@ Welcome to add and update topics by sending pull-request.
 - [x] [飘洋1899](http://topic-land.com/#/topics/%E9%A3%98%E6%B4%8B1899)
 - [x] [蓝色监狱](http://topic-land.com/#/topics/%E8%93%9D%E8%89%B2%E7%9B%91%E7%8B%B1)
 - [x] [First Love](http://topic-land.com/#/topics/First%20Love(TV%20series))
+- [ ] 她和她的她
 - [ ] 睡魔
 - [ ] 链锯人
 - [ ] 绝命毒师
@@ -30,6 +31,7 @@ Welcome to add and update topics by sending pull-request.
 
 - [x] [乐透大作战](http://topic-land.com/#/topics/%E4%B9%90%E9%80%8F%E5%A4%A7%E4%BD%9C%E6%88%98)
 - [x] [明日战记](http://topic-land.com/#/topics/%E6%98%8E%E6%97%A5%E6%88%98%E8%AE%B0)
+- [ ] 秘境探险
 
 ## Games
 

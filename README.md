@@ -19,6 +19,7 @@ Welcome to add and update topics by sending pull-request.
 - [x] [飘洋1899](http://topic-land.com/#/topics/%E9%A3%98%E6%B4%8B1899)
 - [x] [蓝色监狱](http://topic-land.com/#/topics/%E8%93%9D%E8%89%B2%E7%9B%91%E7%8B%B1)
 - [x] [First Love](http://topic-land.com/#/topics/First%20Love(TV%20series))
+- [x] [三体(ANIMATION)](http://topic-land.com/#/topics/%E4%B8%89%E4%BD%93(ANIMATION))
 - [ ] 她和她的她
 - [ ] 睡魔
 - [ ] 链锯人

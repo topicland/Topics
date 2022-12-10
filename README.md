@@ -31,7 +31,7 @@ Welcome to add and update topics by sending pull-request.
 
 - [x] [乐透大作战](http://topic-land.com/#/topics/%E4%B9%90%E9%80%8F%E5%A4%A7%E4%BD%9C%E6%88%98)
 - [x] [明日战记](http://topic-land.com/#/topics/%E6%98%8E%E6%97%A5%E6%88%98%E8%AE%B0)
-- [ ] 秘境探险
+- [x] [秘境探险](http://topic-land.com/#/topics/%E7%A7%98%E5%A2%83%E6%8E%A2%E9%99%A9)
 
 ## Games
 

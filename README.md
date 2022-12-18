@@ -9,6 +9,7 @@ Welcome to add and update topics by sending pull-request.
 - [x] [绝代双骄](https://topic-land.com/#/topics/%E7%BB%9D%E4%BB%A3%E5%8F%8C%E9%AA%84)
 - [x] [水浒传](https://topic-land.com/#/topics/%E6%B0%B4%E6%B5%92%E4%BC%A0)
 - [x] [三国演义](https://topic-land.com/#/topics/%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89)
+- [x] 1Q84
 - [ ] 献给阿尔吉侬的花束
 - [ ] 寂静中的惊奇
 
@@ -20,13 +21,10 @@ Welcome to add and update topics by sending pull-request.
 - [x] [蓝色监狱](https://topic-land.com/#/topics/%E8%93%9D%E8%89%B2%E7%9B%91%E7%8B%B1)
 - [x] [First Love](https://topic-land.com/#/topics/First%20Love(TV%20series))
 - [x] [三体(ANIMATION)](https://topic-land.com/#/topics/%E4%B8%89%E4%BD%93(ANIMATION))
-- [ ] 她和她的她
+- [x] 她和她的她
 - [ ] 睡魔
-- [ ] 链锯人
 - [ ] 绝命毒师
 - [ ] 怪奇物语
-- [ ] 全职猎人
-- [ ] 间谍过家家
 
 ## Movies
 
@@ -38,5 +36,4 @@ Welcome to add and update topics by sending pull-request.
 
 - [x] [宝可梦朱](https://topic-land.com/#/topics/%E5%AE%9D%E5%8F%AF%E6%A2%A6%E6%9C%B1)
 - [ ] 十三机兵防卫圈
-- [ ] Elden Ring
 

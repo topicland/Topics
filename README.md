@@ -13,6 +13,10 @@ Welcome to add and update topics by sending pull-request.
 - [ ] 献给阿尔吉侬的花束
 - [ ] 寂静中的惊奇
 
+## Books
+
+- [x] 梅西传奇
+
 ## TV Series
 
 - [x] [赛博朋克：边缘行者](http://39.108.136.237/#/topics/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%EF%BC%9A%E8%BE%B9%E7%BC%98%E8%A1%8C%E8%80%85)

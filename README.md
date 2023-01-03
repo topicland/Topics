@@ -12,10 +12,11 @@ Welcome to add and update topics by sending pull-request.
 - [x] 1Q84
 - [x] 献给阿尔吉侬的花束
 - [x] 梅西传奇
-- [ ] 寂静中的惊奇
-- [ ] 造梦的雨果
-- [ ] 奇迹之屋
+- [x] 奇迹之屋
+- [x] 寂静中的惊奇
+- [x] 造梦的雨果
 - [ ] 红楼梦
+- [ ] 百年孤独
 
 ## TV Series
 
@@ -29,13 +30,13 @@ Welcome to add and update topics by sending pull-request.
 - [x] 蛋黄哥大冒险
 - [x] 世界奇妙物语(2022秋季特别篇)
 - [x] 外来媳妇本地郎
+- [x] 想见你
 - [ ] 星期三
 - [ ] 睡魔
 - [ ] 绝命毒师
 - [ ] 怪奇物语
 - [ ] 全职猎人
 - [ ] 链锯人
-- [ ] 想见你
 - [ ] 甄嬛传
 
 ## Movies
@@ -50,7 +51,7 @@ Welcome to add and update topics by sending pull-request.
 ## Games
 
 - [x] [宝可梦朱](https://topic-land.com/#/topics/%E5%AE%9D%E5%8F%AF%E6%A2%A6%E6%9C%B1)
-- [ ] 最终幻想7重置版
+- [x] 最终幻想7重置版
 - [ ] 十三机兵防卫圈
 - [ ] 海沙风云
 - [ ] OPUS龙脉常歌

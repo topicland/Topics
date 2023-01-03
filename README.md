@@ -10,12 +10,12 @@ Welcome to add and update topics by sending pull-request.
 - [x] [水浒传](https://topic-land.com/#/topics/%E6%B0%B4%E6%B5%92%E4%BC%A0)
 - [x] [三国演义](https://topic-land.com/#/topics/%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89)
 - [x] 1Q84
-- [ ] 献给阿尔吉侬的花束
-- [ ] 寂静中的惊奇
-
-## Books
-
+- [x] 献给阿尔吉侬的花束
 - [x] 梅西传奇
+- [ ] 寂静中的惊奇
+- [ ] 造梦的雨果
+- [ ] 奇迹之屋
+- [ ] 红楼梦
 
 ## TV Series
 
@@ -26,18 +26,32 @@ Welcome to add and update topics by sending pull-request.
 - [x] [First Love](https://topic-land.com/#/topics/First%20Love(TV%20series))
 - [x] [三体(ANIMATION)](https://topic-land.com/#/topics/%E4%B8%89%E4%BD%93(ANIMATION))
 - [x] 她和她的她
+- [x] 蛋黄哥大冒险
+- [x] 世界奇妙物语(2022秋季特别篇)
+- [x] 外来媳妇本地郎
+- [ ] 星期三
 - [ ] 睡魔
 - [ ] 绝命毒师
 - [ ] 怪奇物语
+- [ ] 全职猎人
+- [ ] 链锯人
+- [ ] 想见你
+- [ ] 甄嬛传
 
 ## Movies
 
 - [x] [乐透大作战](https://topic-land.com/#/topics/%E4%B9%90%E9%80%8F%E5%A4%A7%E4%BD%9C%E6%88%98)
 - [x] [明日战记](https://topic-land.com/#/topics/%E6%98%8E%E6%97%A5%E6%88%98%E8%AE%B0)
 - [x] [秘境探险](https://topic-land.com/#/topics/%E7%A7%98%E5%A2%83%E6%8E%A2%E9%99%A9)
+- [x] 鬼妈妈
+- [x] 饭戏攻心
+- [ ] 想见你(电影)
 
 ## Games
 
 - [x] [宝可梦朱](https://topic-land.com/#/topics/%E5%AE%9D%E5%8F%AF%E6%A2%A6%E6%9C%B1)
+- [ ] 最终幻想7重置版
 - [ ] 十三机兵防卫圈
+- [ ] 海沙风云
+- [ ] OPUS龙脉常歌
 

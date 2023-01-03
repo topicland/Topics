@@ -46,6 +46,7 @@ Welcome to add and update topics by sending pull-request.
 - [x] [秘境探险](https://topic-land.com/#/topics/%E7%A7%98%E5%A2%83%E6%8E%A2%E9%99%A9)
 - [x] 鬼妈妈
 - [x] 饭戏攻心
+- [x] 利刃出鞘2
 - [ ] 想见你(电影)
 
 ## Games

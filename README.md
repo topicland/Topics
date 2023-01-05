@@ -15,7 +15,7 @@ Welcome to add and update topics by sending pull-request.
 - [x] 奇迹之屋
 - [x] 寂静中的惊奇
 - [x] 造梦的雨果
-- [ ] 红楼梦
+- [x] 红楼梦
 - [ ] 百年孤独
 
 ## TV Series
@@ -53,7 +53,9 @@ Welcome to add and update topics by sending pull-request.
 
 - [x] [宝可梦朱](https://topic-land.com/#/topics/%E5%AE%9D%E5%8F%AF%E6%A2%A6%E6%9C%B1)
 - [x] 最终幻想7重置版
-- [ ] 十三机兵防卫圈
+- [x] 十三机兵防卫圈
 - [ ] 海沙风云
 - [ ] OPUS龙脉常歌
+- [ ] 风来之国
+- [ ] 烟火
 

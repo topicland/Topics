@@ -47,6 +47,7 @@ Welcome to add and update topics by sending pull-request.
 - [x] [鬼妈妈](https://topic-land.com/#/topics/%E9%AC%BC%E5%A6%88%E5%A6%88)
 - [x] [饭戏攻心](https://topic-land.com/#/topics/%E9%A5%AD%E6%88%8F%E6%94%BB%E5%BF%83)
 - [x] [利刃出鞘2](https://topic-land.com/#/topics/%E5%88%A9%E5%88%83%E5%87%BA%E9%9E%982)
+- [x] GODD LUCK TO YOU, LEO GRANDE
 - [ ] 想见你(电影)
 
 ## Games
@@ -54,8 +55,9 @@ Welcome to add and update topics by sending pull-request.
 - [x] [宝可梦朱](https://topic-land.com/#/topics/%E5%AE%9D%E5%8F%AF%E6%A2%A6%E6%9C%B1)
 - [x] [最终幻想7重置版](https://topic-land.com/#/topics/%E6%9C%80%E7%BB%88%E5%B9%BB%E6%83%B37%E9%87%8D%E7%BD%AE%E7%89%88)
 - [x] [十三机兵防卫圈](https://topic-land.com/#/topics/%E5%8D%81%E4%B8%89%E6%9C%BA%E5%85%B5%E9%98%B2%E5%8D%AB%E5%9C%88)
+- [x] 烟火
+- [x] 花之灵
 - [ ] 海沙风云
 - [ ] OPUS龙脉常歌
 - [ ] 风来之国
-- [ ] 烟火
 

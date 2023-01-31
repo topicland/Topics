@@ -35,6 +35,8 @@ Welcome to add and update topics by sending pull-request.
 - [x] [老表，你好Hea！](https://topic-land.com/#/topics/%E8%80%81%E8%A1%A8%EF%BC%8C%E4%BD%A0%E5%A5%BDHea%EF%BC%81)
 - [x] 非人哉
 - [x] 甄嬛传
+- [ ] 伊藤润二狂热：日本恐怖故事
+- [ ] 中国奇谭
 - [ ] 上载新生
 - [ ] 星期三
 - [ ] 睡魔
@@ -70,7 +72,8 @@ Welcome to add and update topics by sending pull-request.
 - [x] [烟火](https://topic-land.com/#/topics/%E7%83%9F%E7%81%AB)
 - [x] [花之灵](https://topic-land.com/#/topics/%E8%8A%B1%E4%B9%8B%E7%81%B5)
 - [x] 咩咩启示录
-- [ ] Lacuna
+- [x] Lacuna
+- [x] 双人成行
 - [ ] 海沙风云
 - [ ] OPUS龙脉常歌
 - [ ] 风来之国

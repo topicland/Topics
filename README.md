@@ -33,6 +33,8 @@ Welcome to add and update topics by sending pull-request.
 - [x] [想见你](https://topic-land.com/#/topics/%E6%83%B3%E8%A7%81%E4%BD%A0)
 - [x] [沙漠之王](https://topic-land.com/#/topics/%E6%B2%99%E6%BC%A0%E4%B9%8B%E7%8E%8B)
 - [x] [老表，你好Hea！](https://topic-land.com/#/topics/%E8%80%81%E8%A1%A8%EF%BC%8C%E4%BD%A0%E5%A5%BDHea%EF%BC%81)
+- [x] 非人哉
+- [x] 甄嬛传
 - [ ] 上载新生
 - [ ] 星期三
 - [ ] 睡魔
@@ -40,7 +42,6 @@ Welcome to add and update topics by sending pull-request.
 - [ ] 怪奇物语
 - [ ] 全职猎人
 - [ ] 链锯人
-- [ ] 甄嬛传
 
 ## Movies
 
@@ -68,7 +69,8 @@ Welcome to add and update topics by sending pull-request.
 - [x] [十三机兵防卫圈](https://topic-land.com/#/topics/%E5%8D%81%E4%B8%89%E6%9C%BA%E5%85%B5%E9%98%B2%E5%8D%AB%E5%9C%88)
 - [x] [烟火](https://topic-land.com/#/topics/%E7%83%9F%E7%81%AB)
 - [x] [花之灵](https://topic-land.com/#/topics/%E8%8A%B1%E4%B9%8B%E7%81%B5)
-- [ ] 喵喵启示录
+- [x] 咩咩启示录
+- [ ] Lacuna
 - [ ] 海沙风云
 - [ ] OPUS龙脉常歌
 - [ ] 风来之国

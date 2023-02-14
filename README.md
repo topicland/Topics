@@ -16,6 +16,7 @@ Welcome to add and update topics by sending pull-request.
 - [x] [寂静中的惊奇](https://topic-land.com/#/topics/%E5%AF%82%E9%9D%99%E4%B8%AD%E7%9A%84%E6%83%8A%E5%A5%87)
 - [x] [造梦的雨果](https://topic-land.com/#/topics/%E9%80%A0%E6%A2%A6%E7%9A%84%E9%9B%A8%E6%9E%9C)
 - [x] [红楼梦](https://topic-land.com/#/topics/%E7%BA%A2%E6%A5%BC%E6%A2%A6)
+- [x] 铃芽之旅
 - [ ] 百年孤独
 
 ## TV Series
@@ -59,6 +60,9 @@ Welcome to add and update topics by sending pull-request.
 - [x] [分手的决心](https://topic-land.com/#/topics/%E5%88%86%E6%89%8B%E7%9A%84%E5%86%B3%E5%BF%83)
 - [x] Nope
 - [x] 未来罪行
+- [x] A Film about Coffee
+- [x] 西线无战事
+- [ ] 花束般的恋爱
 - [ ] 壮志凌云2：独行侠
 - [ ] 悲情三角
 - [ ] 西线无战事
